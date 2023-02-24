@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rick_and_morty/app_router.dart';
 
-//! we stoped at repository to learn API 
-
 void main() {
   runApp(RickAndMortyApp(appRouter: AppRouter()));
 }
