@@ -13,7 +13,8 @@ class Character {
     name = json["name"];
     deadOrAlive = json["status"];
     humanOrAlian = json["species"];
-    features= json["type"];
-    gender= json["gender"];
-    image= json["image"];
+    features = json["type"];
+    gender = json["gender"];
+    image = json["image"];
   }
+}
